@@ -17,11 +17,14 @@ This is a step by step guide to set up the project.
 
 Clone the project repository.
 
+```
+https://github.com/mohank524/Kyc_upload.git
+```
 
 Enter the project directory
 
 ```
-cd kyc
+cd Kyc_upload
 ```
 
 Install the node modules
@@ -61,14 +64,6 @@ http://localhost:3000/
 ```
 
 ## Running the tests
-
-This section describes how to run the automated tests for this dapp. 
-
-Enter the project root directory
-
-```
-cd kyc
-```
 
 Run tests
 

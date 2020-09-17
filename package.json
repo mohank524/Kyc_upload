@@ -55,7 +55,7 @@
     "ether": "0.0.9",
     "ethers": "^4.0.44",
     "ipfs-api": "^24.0.0",
-    "node-forge": "^0.7.5",
+    "node-forge": "^0.10.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-router-dom": "^4.3.1",
